@@ -1,0 +1,5 @@
+# exclude Training Notebook
+/Notebook/Training/*
+
+# exclude Answer Notebook
+/Notebook/Answer/*
