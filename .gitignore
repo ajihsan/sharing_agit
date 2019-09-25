@@ -3,3 +3,4 @@
 
 # exclude Answer Notebook
 /Notebook/Answer/*
+!/Notebook/Answer/Python_Hands_on.ipynb
