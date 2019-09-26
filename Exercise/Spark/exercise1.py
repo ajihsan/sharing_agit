@@ -19,4 +19,6 @@ Gabungan 3 dataframe diatas agar menjadi 1 format. Menjadi format:
 Hint: 
 1. sesuaikan 'content' agar merepresentasikan aspirasi customer Pos Indonesia di masing-masing sosial media
 2. Pastikan hanya data customer yang digabungkan
+
+https://stackoverflow.com/questions/37471346/automatically-and-elegantly-flatten-dataframe-in-spark-sql https://stackoverflow.com/questions/41027315/pyspark-split-multiple-array-columns-into-rows
 """
